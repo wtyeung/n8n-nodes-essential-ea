@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "n8n community node to work with the Essential EA API",
   "license": "MIT",
-  "homepage": "https://github.com/timyeung/n8n-nodes-essential-ea",
+  "homepage": "https://github.com/wtyeung/n8n-nodes-essential-ea",
   "keywords": ["n8n-community-node-package"],
   "author": { "name": "Tim Yeung", "email": "tim.yeung@hku.hk" },
-  "repository": { "type": "git", "url": "" },
+  "repository": { "type": "git", "url": "https://github.com/wtyeung/n8n-nodes-essential-ea.git" },
   "scripts": {
     "build": "n8n-node build",
     "build:watch": "tsc --watch",
